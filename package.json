@@ -1,7 +1,7 @@
 {
-  "name": "new-publisher-npm-react-component",
-  "version": "1.0.0",
-  "description": "",
+  "name": "marginsdesign-name_of_project-name_of_page",
+  "version": "0.0.1",
+  "description": "short description of the project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.12",
